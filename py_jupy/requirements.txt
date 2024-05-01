@@ -1,0 +1,2 @@
+pywin32==306
+streamlit==1.33.0
